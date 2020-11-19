@@ -1,13 +1,13 @@
-package com.chris.fireschedules;
+package com.chris.timetablz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FireschedulesApplication {
+public class TimetablzApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FireschedulesApplication.class, args);
+		SpringApplication.run(TimetablzApplication.class, args);
 	}
 
 }
